@@ -4,3 +4,4 @@ This is an experiment, where I will attempt to right a simple number guessing ga
 So far, I have done the following languages:
 - Python
 - JavaScript & HTML (And CSS)
+- PowerShell Script
