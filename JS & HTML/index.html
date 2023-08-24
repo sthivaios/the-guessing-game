@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guessing Game</title>
+    <link rel="stylesheet" href=".\style.css">
+    <!-- <link rel="icon" href=".\favicong.jpg"> -->
+</head>
+<body>
+    
+    <h1>Welcome to the "Guessing Game"</h1>
+    <hr>
+    <label for="userinput">Enter a number and see if you can guess correctly</label>
+    <br>
+    <input id="userinput" type="number" min="0" max="6" required>
+
+    <br><br>
+    <button id="guess">Guess</button>
+
+    <br><br><br>
+    <div id="result">Result : </div>
+    <br><br>
+    <div id="info">
+        <div class="info" id="score">Score : 0</div>
+        <div class="info" id="rounds">Rounds : 0</div>
+    </div>
+
+</body>
+<script src=".\javascript.js"></script>
+</html>
