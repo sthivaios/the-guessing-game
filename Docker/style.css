@@ -1,0 +1,49 @@
+body{
+    background-color: beige;
+    font-family: Verdana, Arial;
+    text-align: center;
+}
+
+#userinput{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+#guess{
+    font-size: large;
+}
+
+#guess:hover{
+    animation: buttonpopout 0.1s ease-in-out;
+    animation-fill-mode: forwards;
+}
+
+.info{
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 5px;
+}
+
+#result{
+    font-weight: bold;
+}
+
+#info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@keyframes buttonpopout {
+    0%{
+        
+    }
+    100%{
+        border: 3px solid black;
+        box-shadow: 3px 3px 10px;
+    }
+}
