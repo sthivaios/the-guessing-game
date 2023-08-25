@@ -7,11 +7,6 @@ So far, I have done the following languages:
 - (Docker Image)
 - PowerShell Script
 - C#
-
-
-
-
-
-
+<br><br>
 # Related Files
 <a href="DockerInstructions.md">Instructions For Docker</a>
