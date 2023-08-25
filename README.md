@@ -5,3 +5,4 @@ So far, I have done the following languages:
 - Python
 - JavaScript & HTML (And CSS)
 - PowerShell Script
+- C#
