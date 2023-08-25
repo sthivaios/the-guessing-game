@@ -1,0 +1,11 @@
+# Use an official Apache runtime as the base image
+FROM httpd:latest
+
+# Copy the contents of your website into the Apache document root
+COPY . /usr/local/apache2/htdocs/
+
+# Expose port 80 for incoming web traffic
+EXPOSE 80
+
+# Set permissions for the Apache user
+RUN chown -R www-data:www-data /usr/local/apache2/htdocs/
