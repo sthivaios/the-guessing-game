@@ -3,7 +3,7 @@
 > [!WARNING]
 > **NEVER REPORT A SECRITY VULNERABILITY PUBLICLY**
 
-**The email should be based on the following template :**
+The email should be based on the following template :
 
 **Summary of the security vulnerability**
 * *A clear and concise description of what the bug is.* *
