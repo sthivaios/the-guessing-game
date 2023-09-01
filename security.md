@@ -1,4 +1,4 @@
-**To report a security vulnerability, please send an email at mailto:cve@kioydio.org**
+**To report a security vulnerability, please send an email at ve@kioydio.org**
 
 > [!WARNING]
 > NEVER REPORT A SECRITY VULNERABILITY PUBLICLY
