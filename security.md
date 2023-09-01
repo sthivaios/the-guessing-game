@@ -3,33 +3,22 @@
 > [!WARNING]
 > **NEVER REPORT A SECRITY VULNERABILITY PUBLICLY (SUCH AS GITHUB)**
 
-The email should be based on the following template :
 
-**Summary of the security vulnerability**
+The email should include the following information :
 
-*A clear and concise description of what the bug is.*
+-  [ ] **Summary of the security vulnerability**
 
-**Describe how you discovered the vulnerability**
+-  [ ] **Describe how you discovered the vulnerability**
 
-*Describe how you discovered the vulnerability*
+-  [ ] **Type of issue (buffer overflow, SQL injection, etc...)**
 
-**Type of issue**
+-  [ ] **Source File(s) where the vulnerability "stems from" (Optional but very helpful)**
 
-*Types of issues can include buffer overflow, sql injections, etc.*
+-  [ ] **Any special configuration required to reproduce the issue**
 
-**Source File(s) where the problem "stems from" (Optional but very helpful)**
+-  [ ] **Steps to reproduce**
 
-*If possible, please mention the filename or provide a direct GitHub link to the*
-*source code file(s) that contains the vulnerability.*
+-  [ ] **Impact of issue (including how an attacker might exploit this vulnerability)**
 
-**Any special configuration required to reproduce the issue**
-*Are any special configurations needed to produce this issue? If so, what are they?*
-
-**Steps to reproduce**
-* *For example :* *
-* *1. Go to '...'* *
-* *2. Click on '....'* *
-* *3. Scroll down to '....'* *
-* *4. See error* *
-
-**Impact of issue (including how an attacker might exploit this vulnerability)**
+> [!NOTE]
+> Usually, expect a reply in less than 12 hours.
