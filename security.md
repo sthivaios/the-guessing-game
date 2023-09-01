@@ -1,7 +1,7 @@
 **To report a security vulnerability, please send an email at cve@kioydio.org**
 
 > [!WARNING]
-> NEVER REPORT A SECRITY VULNERABILITY PUBLICLY
+> **NEVER REPORT A SECRITY VULNERABILITY PUBLICLY**
 
 **The email should be based on the following template :**
 
