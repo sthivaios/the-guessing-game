@@ -5,16 +5,16 @@
 
 The email should be based on the following template :
 
-**Summary of the security vulnerability**
+**Summary of the security vulnerability** <br>
 *A clear and concise description of what the bug is.*
 
-**Describe how you discovered the vulnerability**
+**Describe how you discovered the vulnerability** <br>
 *Describe how you discovered the vulnerability*
 
-**Type of issue**
+**Type of issue** <br>
 *Types of issues can include buffer overflow, sql injections, etc.*
 
-**Source File(s) where the problem "stems from" (Optional but very helpful)**
+**Source File(s) where the problem "stems from" (Optional but very helpful)** <br>
 *If possible, please mention the filename or provide a direct GitHub link to the*
 *source code file(s) that contains the vulnerability.*
 
