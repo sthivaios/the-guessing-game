@@ -6,20 +6,20 @@
 The email should be based on the following template :
 
 **Summary of the security vulnerability**
-* *A clear and concise description of what the bug is.* *
+*A clear and concise description of what the bug is.*
 
 **Describe how you discovered the vulnerability**
-* *Describe how you discovered the vulnerability* *
+*Describe how you discovered the vulnerability*
 
 **Type of issue**
-* *Types of issues can include buffer overflow, sql injections, etc.* *
+*Types of issues can include buffer overflow, sql injections, etc.*
 
 **Source File(s) where the problem "stems from" (Optional but very helpful)**
-* *If possible, please mention the filename or provide a direct GitHub link to the* *
-* *source code file(s) that contains the vulnerability.* *
+*If possible, please mention the filename or provide a direct GitHub link to the*
+*source code file(s) that contains the vulnerability.*
 
 **Any special configuration required to reproduce the issue**
-* *Are any special configurations needed to produce this issue? If so, what are they?* *
+*Are any special configurations needed to produce this issue? If so, what are they?*
 
 **Steps to reproduce**
 * *For example :* *
